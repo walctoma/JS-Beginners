@@ -1,6 +1,6 @@
-Istotną rzeczą jest instlacja Node.js aby odpalać kod po za przeglądarką i w czasie rzeczzywistym.<br/><br/>
+Istotną rzeczą jest instlacja Node.js aby odpalać kod po za przeglądarką i w czasie rzeczywistym.<br/><br/>
 
-W tym celu pobieram Node.Js i isntalujemy<br/><br/>
+W tym celu pobieram Node.Js i isstalujemy<br/><br/>
 
 potem w terminalu: <br/><br/>
 
