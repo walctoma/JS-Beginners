@@ -1,7 +1,8 @@
-Java-Script-Beginers
-Te repozytorium stanowi, taką piaskownice w której stoponiowo będę poznawał tajniki Java Script.
-<p>
-Być może przyda się to również innym początkującym programistą, mającym jakieś pomniejsze problemy.
+Java-Script-Beginers<br />
+Te repozytorium stanowi, taką piaskownice w której <br />
+stoponiowo będę poznawał tajniki Java Script.<br />
+<p>Być może przyda się to również innym początkującym programistą, <br />
+mającym jakieś pomniejsze problemy.<br />
 <br /><br />
   
 Ważne zasady na początek:<br />
