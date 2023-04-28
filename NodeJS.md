@@ -1,9 +1,9 @@
-Istotną rzeczą jest instlacja Node.js aby odpalać kod po za przeglądarką i w czasie rzeczzywistym.
+Istotną rzeczą jest instlacja Node.js aby odpalać kod po za przeglądarką i w czasie rzeczzywistym.<br/><br/>
 
-W tym celu pobieram Node.Js i isntalujemy
+W tym celu pobieram Node.Js i isntalujemy<br/><br/>
 
-potem w terminalu:
+potem w terminalu: <br/><br/>
 
-node -v
-npm install live-server -g
-live server
+<a>node -v <br/>
+<a>npm install live-server -g <br/>
+<a>live server <br/>
